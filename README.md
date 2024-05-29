@@ -1,1 +1,2 @@
 # CodSoft-task2
+<h4>This Python code demonstrates a comprehensive pipeline for machine learning tasks using scikit-learn. It involves data loading, preprocessing categorical features, integrating a linear regression model, splitting data for training and testing, model training, prediction, and performance evaluation. This structured approach streamlines the development process and ensures robustness in handling real-world datasets.</h4>
